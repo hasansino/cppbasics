@@ -1,0 +1,7 @@
+#pragma once
+
+#define cppbasics_VERSION_MAJOR @cppbasics_VERSION_MAJOR@
+#define cppbasics_VERSION_MINOR @cppbasics_VERSION_MINOR@
+
+#cmakedefine USE_CUSTOM_MATH
+#cmakedefine BUILD_SHARED_LIBS
